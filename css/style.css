@@ -20,7 +20,7 @@ header .container {
 
 .form-section {
   border-top: 2px solid #fff;
-  background-image: url('bg-form.jpg');
+  background-image: url('/imagens/bg-form.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   
