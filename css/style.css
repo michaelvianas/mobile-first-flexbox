@@ -55,6 +55,10 @@ header .container {
   height: 40px;
   width: 70%;
   padding-left: 10px;
+  border: none;
+  color: #000;
+  background-color: #fff;
+  border-radius: 5px;
 }
 
 .form h2 {
@@ -127,7 +131,7 @@ footer {
   width: 40%;
 }
 
-@media screen and (min-width: 390px) {
+@media screen and (min-width: 320px) {
   header .container {
     flex-direction: row;
     justify-content: space-between;
